@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WisataKu</string>
+    <string name="wisata_name">Nama Wisata</string>
+    <string name="wisata_detail">Deskripsi</string>
+    <string name="my_name">MARTINUS ROMBE</string>
+    <string name="my_email1">martinusrombe1021@gmail.com</string>
+    <string name="my_email2">a1631773@bangkit.academy</string>
+    <string name="profile">Profile</string>
+</resources>
